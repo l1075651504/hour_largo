@@ -28,7 +28,7 @@ description: >  # this means to ignore newlines until "Language & timezone"
 ## => Language and Timezone
 ##############################
 lang: cn # the language of your site, default as "en"
-timezone:Europe/Madrid # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: Europe/Madrid # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 
 ## => Author and Social
@@ -36,10 +36,10 @@ timezone:Europe/Madrid # see https://en.wikipedia.org/wiki/List_of_tz_database_t
 author:QINJIAMEI LI
   type      : # "person" (default), "organization"
   name      : 李秦家妹 #Your Name
-  url       :https://l1075651504.github.io/
+  url       : https://l1075651504.github.io/
   avatar    : https://s2.loli.net/2022/04/12/5UjLzqSkQu4xIJe.jpg # path or url of avatar image (square)
   bio       : GIS student at the Polytechnic University of Catalonia
-  email     :l1075651504@gmail.com
+  email     : l1075651504@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
